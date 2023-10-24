@@ -1,0 +1,85 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root
+{
+-fx-background-color: #B8D0E2; 
+-fx-font-size: 16.0pt;
+-fx-font-style: normal ;
+-fx-font-weight: bold;
+-fx-border-width: 3.0px;
+-fx-border-color: rgb(165.0,190.0,0.0);
+-fx-animated: true;
+}
+
+.button
+{
+-fx-text-fill: rgb(235.0, 242.0, 250.0);
+-fx-border-width: 2.0px;
+-fx-border-radius:20.0% ;
+-fx-background-color: rgb(103.0, 148.0, 54.0);
+-fx-font: bold 14.0pt 'sans-serif';
+
+}
+.tableView{
+	-fx-font-size: 10.0pt 'sans-serif' bold;
+	-fx-text-fill: rgb(235.0, 242.0, 250.0);
+	-fx-background-color: #B8D0E2; 
+	-fx-border-width: 3.0px;
+-fx-border-color: rgb(165.0,190.0,0.0);
+-fx-animated: true;
+	
+}
+
+.text-field
+{
+-fx-text-fill: rgb(5.0, 102.0, 141.0);
+-fx-font-size: 20.0pt;
+-fx-border-color: rgb(165.0,190.0,0.0);
+-fx-border-width: 3.0px; 
+-fx-background-color: rgb(235.0, 242.0, 250.0);
+-fx-background-color: #B8D0E2;
+
+}
+
+.title{
+-fx-background-color: yellow;
+-fx-font-size:24.0pt 'sans-serif';
+-fx-font-weight:bold;
+}
+
+
+
+.background {
+	-fx-background-color:rgb(235.0, 242.0, 250.0);
+}
+.my-vbox {
+    -fx-spacing: 20.0;
+    -fx-alignment:top-left;
+}
+.my-button
+{
+  -fx-text-fill: rgb(235.0, 242.0, 250.0);
+-fx-border-width: 2.0px;
+-fx-border-radius:20.0% ;
+-fx-background-color: rgb(103.0, 148.0, 54.0);
+-fx-font: bold italic 10.0pt 'sans-serif';
+}
+.my-label
+{
+	-fx-text-fill: rgb(5.0, 102.0, 141.0);
+	-fx-alignment:top-left;
+	-fx-font-size: 10.0pt 'sans-serif' bold;
+
+}
+
+.my-text
+{
+	-fx-font: 10.0pt 'sans-serif';
+	-fx-background-color: rgb(235.0, 242.0, 250.0);
+}
+.my-disabled-text
+{
+	-fx-font: 10.0pt 'sans-serif';
+	-fx-background-color: rgb(235.0, 242.0, 250.0);
+}

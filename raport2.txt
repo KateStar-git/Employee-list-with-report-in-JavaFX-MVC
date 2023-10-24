@@ -1,0 +1,10 @@
+Frank Sinatra 13 12 13
+Katarzyna  Chojnowska 5 1 2
+Jack Angel 7 1 2
+Mark Twain 17 12 16
+Adam McDonald 2 1 6
+John Smith 11 7 15
+Ann Brown 15 12 20
+Luke Strike 4 9 17
+Mary Kowalski 12 8 18
+Tom Hanks 9 1 2

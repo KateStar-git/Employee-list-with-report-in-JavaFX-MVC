@@ -20,7 +20,7 @@ the same file from which the data was loaded.
 Each line of the input file (report2.txt) contains the following fields separated by spaces: name, surname, room number, work start time (without minutes), work end time (without minutes).
 
 Data example:
-Katarzyna Chojnowska 9 10 15
+Mary Swan 9 10 15
 
 After selecting an element of the list containing a list of people, the following fields should be filled in: Name, Surname, Room number, Start time of work, End time of work with the values corresponding to the selected element. If the user enters new values in these fields and clicks the 'Add' button, a new item should appear on the list.
 
